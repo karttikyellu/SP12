@@ -13,7 +13,7 @@ Package name: kxy170003
 
 
 To compile and run, use the following commands:
-javac ./kxy170003/SP12.java 
+javac ./kxy170003/SP12.java
 
 
 
